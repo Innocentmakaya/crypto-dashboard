@@ -32,7 +32,7 @@ A live cryptocurrency tracking dashboard built with React and TypeScript, using 
 
 1. Clone the repository:
 ```bash
-   git clone https://github.com/YOUR_USERNAME/crypto-dashboard.git
+   git clone https://github.com/Innocentmakaya/crypto-dashboard.git
    cd crypto-dashboard
 ```
 
